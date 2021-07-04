@@ -1,0 +1,11 @@
+[submodule "cmake/Hardening"]
+	path = cmake/Hardening
+	url = https://github.com/KOLANICH-libs/Hardening.cmake
+	branch = master
+	shallow = true
+
+[submodule "party/mio"]
+	path = third-party/mio
+	url = https://github.com/mandreyel/mio
+	branch = master
+	shallow = true
